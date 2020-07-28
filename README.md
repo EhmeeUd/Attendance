@@ -1,7 +1,7 @@
 # Attendance
 This is a list of classes entered
 
-Iniemem Joseph Udosen
+Iniemem Joseph Udosen - CLASS ASSIGNMENT
 
 LIST OF COURSES TAKEN
 1.) HTML
